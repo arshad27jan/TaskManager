@@ -78,7 +78,7 @@ function TaskList({ tasks, setTasks, filterStatus, sortDirection, searchQuery, s
             {filteredTasks.map((task, index) => {
               const statusStyles = getStatusColor(task.status);
               return (
-                <Draggable key={task.id || index} draggableId={task.id.toString()} index={index}>
+                <Draggable key={task.id.toString()} draggableId={task.id.toString()} index={index}>
                   {(provided) => (
                     <Card
                       ref={provided.innerRef}
