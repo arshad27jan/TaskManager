@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TaskManager/static/css/main.9af41d9d.css",
-    "main.js": "/TaskManager/static/js/main.2772b01c.js",
+    "main.js": "/TaskManager/static/js/main.4440c230.js",
     "static/js/453.fd2bc2b4.chunk.js": "/TaskManager/static/js/453.fd2bc2b4.chunk.js",
     "static/media/nanum-gothic-coding-109-400-normal.woff2": "/TaskManager/static/media/nanum-gothic-coding-109-400-normal.db2229f0c2f5a8a79e29.woff2",
     "static/media/nanum-gothic-coding-110-400-normal.woff2": "/TaskManager/static/media/nanum-gothic-coding-110-400-normal.537e9cd0184d527a80ab.woff2",
@@ -191,11 +191,11 @@
     "static/media/nanum-gothic-coding-65-400-normal.woff": "/TaskManager/static/media/nanum-gothic-coding-65-400-normal.6f5b02d666c34ae4f29a.woff",
     "index.html": "/TaskManager/index.html",
     "main.9af41d9d.css.map": "/TaskManager/static/css/main.9af41d9d.css.map",
-    "main.2772b01c.js.map": "/TaskManager/static/js/main.2772b01c.js.map",
+    "main.4440c230.js.map": "/TaskManager/static/js/main.4440c230.js.map",
     "453.fd2bc2b4.chunk.js.map": "/TaskManager/static/js/453.fd2bc2b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9af41d9d.css",
-    "static/js/main.2772b01c.js"
+    "static/js/main.4440c230.js"
   ]
 }
